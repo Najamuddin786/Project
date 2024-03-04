@@ -83,7 +83,7 @@ export default function Home(){
                 <Container textAlign='center'>
                     
                     <Image  borderRadius='20px' src="https://assets.mynetdiary.com/images/cover-insights-and-guidance-keto@2x.png"/>
-                    <Text my='0.5em' w='100%' px='10%' fontSize='3.5rem' fontWeight='700' color='rgb(38, 143, 208)' lineHeight='1.1em'>Insights and Guidance</Text>
+                    <Text my='0.5em' w='100%'  fontSize='3.5rem' fontWeight='700' color='rgb(38, 143, 208)' lineHeight='1.1em'>Insights and Guidance</Text>
                     <Text my='0.5em' color='rgb(70, 97, 138)' fontSize='2em' fontWeight='600'>Encouraging and supportive feedback, guiding you to your goal.</Text>
                 </Container>
 
