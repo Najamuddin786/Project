@@ -5,8 +5,7 @@ import { Center ,Box,Flex,Text,Image, Button, Grid, Spacer} from "@chakra-ui/rea
 import {useParams} from "react-router-dom";
 import React from "react";
 import '../App.css'
-    let userId=useParams()
-    console.log(userId)
+    
 
 export default function Detail(){
    return (<>
